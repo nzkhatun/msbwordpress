@@ -91,4 +91,58 @@ Continue - Preferred - Continue
 No - Add Site
 Use Localhost
 
+             WPMU
+            ------
+
+install by default WP single site
+
+WP Multi Site
+One Dashboard But control more website
+
+Common Resource
+1. Plugin
+2. Theme
+
+20 Plugins min each site
+For 5 site common 15 plugins each site
+
+WPMU 
+
+.................
+
+
+How To Setup WordPress Multisite In The Local Server (PC)
+---------------------------------------------------------
+
+MPMU
+Option: Sub directory
+Subdomain
+
+aditta.me/resturant   -- Sub Directory
+blog.aditta.me       -- Sub Domain
+
+
+wo-config.php
+define( 'WP_ALLOW_MULTISITE', true );
+
+data past to 
+wp-config.php
+hidden file show
+.htaccess
+past
+
+How to Switch WPMU Subdirectory To Subdomain And Vice Verca
+-----------------------------------------
+
+wp-config
+ture     set up
+
+
+Create Subdirectories Or Subdomain In WPMU
+--------------------------------
+
+
+How To Manage Themes, Plugins In WP & WPMU
+-----------------------------------------
+
 
